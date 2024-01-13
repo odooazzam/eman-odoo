@@ -3,7 +3,7 @@
 Eman Khalifa Training repo - Course API, Controllers and OWL
 
 1- clone the repo:
-` git clone https://gitlab.com/eman.saeed/odoo_training.git `
+` git clone https://gitlab.com/odooazzam/eman-odoo/odoo_training.git `
 
 
 2- Run to install docker 
